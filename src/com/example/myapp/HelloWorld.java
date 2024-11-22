@@ -5,7 +5,7 @@ public class HelloWorld {
 	String myString;
 
 	void shout() {
-		myString = "Bye World!";
+		myString = "222 World!";
 		for (int i = 0; i < 3; i++) {
 			System.out.println(myString);
 		}
